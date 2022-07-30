@@ -1,0 +1,7 @@
+# Mocba
+alias Mocba='echo "рейнджер" | pv -qL 10 && рейнджер'
+alias рейнджер='cd /Users/rangersmyth/Mac/scripts/Chuck/ussr && mplayer dial_tone.mp3 && mplayer dial_up_internet.mp3 && echo "Добро пожаловать в узел прослушивания Euro KGB для telnet." | pv -qL 10 && part0'
+alias part0='mplayer morse.wav && cat kgb.txt && mplayer dial_tone.mp3 && espeak "Agent...two one six"  && mplayer dialing_number.mp3 && echo "Боже, храни свой СССР" | pv -qL 10 && part1'
+alias part1='cat /Users/rangersmyth/Mac/scripts/Chuck/ussr/ussr.txt && echo "Добро пожаловать на Кубу. Приветствую КГБ" | pv -qL 10 && sleep 2 && curl http://wttr.in/Moscow && sleep 2 && ussr_ant'
+alias ussr_ant='mpv https://youtu.be/QALooHJQ1_w'
+# Mocba Ends
