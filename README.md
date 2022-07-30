@@ -2,8 +2,6 @@
                               Я надеюсь, что это пройдет,
                                 и вы поверите на минуту.
 
-
-
                             ░░░░░░░░░░▀▀▀██████▄▄▄░░░░░░░░░░
                             ░░░░░░░░░░░░░░░░░▀▀▀████▄░░░░░░░
                             ░░░░░░░░░░▄███████▀░░░▀███▄░░░░░
@@ -24,7 +22,7 @@
 ## The point of this script.
 
 This script is to make you look like a hacker in some way, that you found a connection to a server in Russia.
-When I made this script we are at war with Russia not the people but the leaders.
+When I made this script we are at war with Russia not with all of the people but deffo with all of the leaders.
 
 I ran this script after telling my friend who is not computer savvy a little story of how I found a connection to a server in Moscow, or Mocba in Russian. He was so interested when the script kicked off and what happens next as again he does not know too much about computers or what was happening, and that is when the magic happens. This is a magic trick to con your victim into believing in someway you found a backdoor into the Kremlin or something. The story is true but not that we connected to anything but a folder on your own system, to do this in real life could end it fast!
 
