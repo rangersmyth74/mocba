@@ -33,24 +33,32 @@ This little bit of code in the file mocba.txt using shell and aliases has to eit
 I am sure someone can make this work using some other way but as for today this is the only way I know.
 I believe 100% that this is safe and will not hurt your system.
 
-1.  Check the requirements.txt and make sure that you have the packages installed, if you have python and pip installed you  can use this command to install them, make sure you are in the folder $ pip3 install -r requirement.txt
-2.  Copy and paste the code in mocba.txt but before you paste into bashrc or zshrc, make a few minor changes.
+1.  To download Mocba to your computer, open up your terminal and at the command line $ prompt, make sure you are in the folder you want to download the files to and then enter this command in git clone https://github.com/rangersmyth74/mocba.git
+
+2.  Check the requirements.txt and make sure that you have the few packages installed, if you have python and pip installed you  can use this command to install the packages you need to get this to work. Make sure you are in the folder $ pip3 install -r requirement.txt.
+
+3.  Copy the code in mocba.txt but before you paste into bashrc or zshrc, make a few minor changes.
     Use nano to edit your bashrc or zshrc.
-3.  Change the paths of the where the files are located on your system, and just change the path to where you downloaded the mocba folder. I left my paths in so you know where to change.
-4.  Make sure it wont effect any other code, so find the alias section in either bashrc or zshrc, paste the altered code with your paths, then save your file, and exit.
-5.  You can exit your terminal or you can run this command to refresh
+    
+4.  Change the paths of the where the files are located on your system, and just change the path to where you downloaded the mocba folder. I left my paths in so you know where to change.
+
+5.  Make sure it wont effect any other code, so find the alias section in either bashrc or zshrc, paste the altered code with your paths, then save your file, and exit.
+
+6.  You can exit your terminal or you can run this command to refresh
     $ source ~/.zshrc
     or
     $ source ~/.bashrc
-6.  Now just type Mocba at the command prompt and sit back and enjoy.
+7.  Now just type Mocba at the command prompt and sit back and enjoy.
 
 ## Problems.
 
-7.  I think due to being the bash or zshrc files that sometimes I had to put in the full path to the folder where the files are being held, and some files I could just use the name without the location path. I am new to making scripts and have really no idea what I am doing. I am watching Star Trek Strange Worlds while making this!
+1.  Files not found - I think due to being the bash or zshrc files that sometimes I had to put in the full path to the folder where the files are being held, and some files I could just use the name without the location path. I am new to making scripts and have really no idea what I am doing. I am watching Star Trek Strange Worlds while making this!
 
-8.  Best make the changes in the mocba.txt file and not in your bashrc or zshrc file. So copy and paste back and forth and all will be well.
+2.  Best make the changes in the mocba.txt file and not in your bashrc or zshrc file. So copy and paste back and forth and all will be well.
 
-9. Check the requirements.txt for needed packages for this to work, you could have them already installed
+3.  Check the requirements.txt for needed packages for this to work, you could have them already installed.
+
+
 
 
                                   Thanks for watching!
